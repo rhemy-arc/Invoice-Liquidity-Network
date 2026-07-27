@@ -16,6 +16,6 @@
     "@iln/sdk": "^0.1.0"
   },
   "scripts": {
-    "build": "node ./build.js"
+    "build": "node init && node ./build.js"
   }
 }

@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/make-knip-check-required",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/make-knip-check-required": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/make-knip-check-required",
+    "origin"
+  ]
+}
